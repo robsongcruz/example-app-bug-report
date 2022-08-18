@@ -67,7 +67,7 @@ def add_row_to_gsheet(gsheet_connector, row) -> None:
 
 st.set_page_config(page_title="Bug report", page_icon="🐞", layout="centered")
 
-st.title("🐞 Bug report!")
+st.title("🐞 Bug report!!")
 
 gsheet_connector = connect_to_gsheet()
 
